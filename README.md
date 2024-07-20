@@ -37,3 +37,5 @@ Ctrl + O : 메서드 오버라이드 할 거 고름
 Ctrl + Alt + N : Inline Variable
 
 Ctrl + Alt + M : Extract Method
+
+Ctrl + Shift + T : Create Test
