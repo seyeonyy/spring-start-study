@@ -34,6 +34,8 @@ Alt + Enter : 오류 수정 제안
 
 Ctrl + O : 메서드 오버라이드 할 거 고름
 
+Ctrl + E : 과거 히스토리 조회
+
 Ctrl + Alt + N : Inline Variable
 
 Ctrl + Alt + M : Extract Method
